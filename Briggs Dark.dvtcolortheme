@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.995405 0.995375 0.995392 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>SFMono-Light - 16.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.995405 0.995375 0.995392 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>SFMono-Light - 16.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0 0.623529 0.411765 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>SFMono-Medium - 16.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.995405 0.995375 0.995392 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>SFMono-Light - 16.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.995405 0.995375 0.995392 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>SFMono-Medium - 16.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.0541769 0.114597 0.150391 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.121569 0.309804 0.341176 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.698039 0.862745 0.807843 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.12 0.31 0.34 1</string>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.18856 0.195 0.22444 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.253475 0.2594 0.286485 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>Menlo-Regular - 10.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.SFNSText-Italic - 10.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>1 1 1 0.7</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.255 0.333 0.819 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.SFNSText-Regular - 10.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.SFNSText-Regular - 10.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>1 1 1 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.SFNSText-Regular - 14.0</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.SFNSDisplay-Regular - 24.0</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.SFNSText-Regular - 18.0</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.SFNSText-Bold - 10.0</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.0541769 0.114597 0.150391 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.117647 0.117647 0.117647 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.86386 0.952715 0.921978 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.308381 0.438559 0.476126 1</string>
+		<key>xcode.syntax.character</key>
+		<string>1 0.508839 0 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.9226 0.0997263 0.243159 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.9226 0.0997263 0.243159 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.9226 0.0997263 0.243159 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0 0.623529 0.411765 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0 0.623529 0.411765 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>1 0.508839 0 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>1 0.508839 0 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0 0.510716 0.677606 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0 0.510716 0.677606 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.778 0.488 0.284 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.778 0.488 0.284 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0 0.623529 0.411765 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0 0.623529 0.411765 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.0638673 0.512978 0.729958 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.0638673 0.512978 0.729958 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.219383 0.425721 0.476012 1</string>
+		<key>xcode.syntax.number</key>
+		<string>1 0.508839 0 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.854421 0.867711 0.875602 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.778 0.488 0.284 1</string>
+		<key>xcode.syntax.string</key>
+		<string>1 0.508839 0 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.255 0.482517 0.67416 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>SFMono-Light - 16.0</string>
+		<key>xcode.syntax.character</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>SFMono-BoldItalic - 16.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>SFMono-BoldItalic - 16.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>SFMono-BoldItalic - 16.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>SFMono-Medium - 16.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>SFMono-Medium - 16.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>SFMono-Light - 16.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>SFMono-Light - 16.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>SFMono-Light - 16.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>SFMono-Light - 16.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>SFMono-Medium - 16.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>SFMono-Medium - 16.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>SFMono-Light - 16.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>SFMono-Light - 16.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>SFMono-Semibold - 16.0</string>
+		<key>xcode.syntax.number</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>SFMono-Light - 16.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>SFMono-Light - 16.0</string>
+		<key>xcode.syntax.string</key>
+		<string>SFMono-Regular - 16.0</string>
+		<key>xcode.syntax.url</key>
+		<string>SFMono-Light - 16.0</string>
+	</dict>
+</dict>
+</plist>
