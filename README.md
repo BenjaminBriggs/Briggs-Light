@@ -11,7 +11,7 @@ This is a set of light and dark colour schemes to help with writhing in day ligh
 Installation
 ------------
 
-I recommend using [Alcatraz](https://github.com/supermarin/Alcatraz) to install these themes. It's a great Package Manager for Xcode where you can find many more themes and plugins .
+I recommend using [Alcatraz](https://github.com/supermarin/Alcatraz) to install these themes. It's a great Package Manager for Xcode, you can find many more themes and plugins .
 You can also install them manually by dropping the .dvtcolortheme file in Xcode's `UserData` folder `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`. Or throw this into a new Terminal window;
 
     git clone https://github.com/BenjaminBriggs/Xcode-Scheme.git
